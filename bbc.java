@@ -35,7 +35,7 @@ public class bbc {
 			System.out.println("D");
 			break;
 		  }
-		  {
+		  switch (grade / 10){
 		  default: 
 		  System.out.println("E");
 		  break;
